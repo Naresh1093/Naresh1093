@@ -1,4 +1,4 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://naresh1093.in)
 
 <h1 align="center">Hi 👋, I'm M Naresh Naik</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
@@ -32,3 +32,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naresh1093&show_icons=true&locale=en" alt="naresh1093" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naresh1093&" alt="naresh1093" /></p>
+
+
